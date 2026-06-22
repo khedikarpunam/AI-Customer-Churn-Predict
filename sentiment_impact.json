@@ -1,0 +1,12 @@
+{
+  "without_sentiment": {
+    "accuracy": 0.7942,
+    "f1_score": 0.5845,
+    "roc_auc": 0.8459
+  },
+  "with_sentiment": {
+    "accuracy": 0.8957,
+    "f1_score": 0.7848,
+    "roc_auc": 0.9296
+  }
+}
